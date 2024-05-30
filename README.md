@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**mqzjuan/mqzjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de programación en la UTN y un apasionado de la tecnología y los videojuegos. Aquí encontrarás algunos proyectos en los que he trabajado, así como también algunas cosas interesantes sobre mí.
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🎓 Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
+- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en C++, Java orientado a objetos, HTML, CSS, PHP y jQuery.
+- 👾 Gran entusiasta de los videojuegos, ¡me encanta pasar horas explorando nuevos mundos virtuales y desafiando a mis amigos en partidas online!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
+- [Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto.
+
+## Contacto
+- 📫 Puedes encontrarme en [LinkedIn](link_a_tu_perfil_de_LinkedIn) para cualquier consulta o colaboración.
+
+¡No dudes en explorar mis repositorios y ponerme un mensaje si tienes alguna pregunta o sugerencia!
+
+¡Gracias por visitar mi perfil! 😊
