@@ -1,6 +1,6 @@
   # ¡Hola! 👋 Soy Juan  
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de programación en la UTN y un apasionado de la tecnología y los videojuegos. Aquí encontrarás algunos proyectos en los que he trabajado, así como también algunas cosas interesantes sobre mí.
+¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de programación en la UTN y un apasionado de la tecnología y los videojuegos. Aca encontrarás algunos proyectos en los que he trabajado, así como también algunas cosas interesantes sobre mí.
 
 ## Sobre mí
 - 🎓 Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
